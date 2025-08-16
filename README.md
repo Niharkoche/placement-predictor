@@ -40,8 +40,17 @@ Placement-Predictor/
    ```bash
    git clone https://github.com/Niharkoche/placement-predictor.git
    cd placement-predictor
+---
 #install dependency
 pip install -r requirements.txt
+
+---
+Run the app
+
+python app.py
+
+---
+
 👨‍💻 Author
 Nihar Koche
 LinkedIn:-https://www.linkedin.com/in/nihar-koche-3a977a28b/
