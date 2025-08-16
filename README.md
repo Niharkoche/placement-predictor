@@ -41,13 +41,27 @@ Placement-Predictor/
    git clone https://github.com/Niharkoche/placement-predictor.git
    cd placement-predictor
 ---
+#Your folder should look like this:
+project-folder/
+│── app.py
+│── requirements.txt
+│── placement.csv
+│── templates/
+    └── index.html
+
+---
+
 #install dependency
+
 pip install -r requirements.txt
 
 ---
 Run the app
 
 python app.py
+ your app will run on this port
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
 
 ---
 
