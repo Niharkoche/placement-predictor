@@ -38,7 +38,7 @@ Placement-Predictor/
 ## ▶️ Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/placement-predictor.git
+   git clone https://github.com/Niharkoche/placement-predictor.git
    cd placement-predictor
 #install dependency
 pip install -r requirements.txt
